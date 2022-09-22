@@ -13,5 +13,5 @@
 # FLAG 5: Infiltrate the Admin Users
   curl 'http://localhost:8080/rest/users/user/?userId=1' -H 'GATECH_ID:123456789' -H 'X-UserName:rcoleman8' 
 
-# <font color=Red>if you hava any question, contact me.I promise you 100 score.</font>
+# <font color=Red>if you hava any question, contact me.I promise you 100 score. Email: zhangpch666@163.com </font>
 
